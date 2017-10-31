@@ -1,0 +1,7 @@
+E:\llllll\Game.Backend\Game.Backend\bin\Debug\Game.Backend.exe.config
+E:\llllll\Game.Backend\Game.Backend\bin\Debug\Game.Backend.exe
+E:\llllll\Game.Backend\Game.Backend\bin\Debug\Game.Backend.pdb
+E:\llllll\Game.Backend\Game.Backend\obj\Debug\Game.Backend.csprojResolveAssemblyReference.cache
+E:\llllll\Game.Backend\Game.Backend\obj\Debug\Game.Backend.csproj.CoreCompileInputs.cache
+E:\llllll\Game.Backend\Game.Backend\obj\Debug\Game.Backend.exe
+E:\llllll\Game.Backend\Game.Backend\obj\Debug\Game.Backend.pdb
